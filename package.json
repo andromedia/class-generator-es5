@@ -1,0 +1,26 @@
+{
+  "name": "class-generator-es5",
+  "description": "Generation and extending classes via ES5 style",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodeweaver/class-generator-es5.git"
+  },
+  "main": "lib",
+  "keywords": [
+    "class",
+    "extend",
+    "object"
+  ],
+  "author": {
+    "name": "Alex Weaver"
+  },
+  "license": "MIT",
+  "dist": {
+    "shasum": "b4ee417c693740a44a92a6d64f1c9540641b097a",
+    "tarball": "http://registry.npmjs.org/class.extend/-/class.extend-0.9.1.tgz"
+  },
+  "dependencies": {
+    "lodash": "*"
+  },
+}
